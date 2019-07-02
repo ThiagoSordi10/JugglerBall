@@ -1,0 +1,9 @@
+﻿Main.obj : error LNK2019: símbolo externo indefinido __imp_al_init_primitives_addon referenciado na função inicializar
+Main.obj : error LNK2019: símbolo externo indefinido __imp_al_draw_filled_circle referenciado na função main
+Main.obj : error LNK2019: símbolo externo indefinido __imp_al_load_font referenciado na função inicializar
+Main.obj : error LNK2019: símbolo externo indefinido __imp_al_draw_text referenciado na função main
+Main.obj : error LNK2019: símbolo externo indefinido __imp_al_draw_textf referenciado na função main
+Main.obj : error LNK2019: símbolo externo indefinido __imp_al_destroy_font referenciado na função main
+Main.obj : error LNK2019: símbolo externo indefinido __imp_al_init_font_addon referenciado na função inicializar
+Main.obj : error LNK2019: símbolo externo indefinido __imp_al_init_ttf_addon referenciado na função inicializar
+C:\Users\Thiago Sordi\Documents\Visual Studio 2017\Projects\Ball_1\x64\Debug\Ball_1.exe : fatal error LNK1120: 8 externo não resolvidos
